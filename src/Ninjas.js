@@ -11,7 +11,7 @@ class Ninjas extends Component {
           <div>Belt: { ninja.belt }</div>
         </div>
       )
-    })
+    })  
     return(
       <div className="ninja-list">
         { ninjaList }
